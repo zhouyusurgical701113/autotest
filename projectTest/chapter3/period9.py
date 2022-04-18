@@ -6,7 +6,7 @@ import time
 
 
 driver = webdriver.Chrome()
-driver.get('http://localhost:63342/projectAutoTest/projectHtml/chapter3/period9.html')
+driver.get('http://localhost:63342/zyprojectAutoTest/projectHtml/chapter3/period9.html')
 driver.implicitly_wait(10)
 
 # 定位下拉框
