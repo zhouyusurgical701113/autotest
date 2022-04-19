@@ -12,10 +12,10 @@ time.sleep(1)
 driver.find_element_by_id('search')
 
 
-# class 定位
+ 
 driver.find_element_by_class_name('btn-search')
 
-# name 定位
+ 
 driver.find_element_by_name('language')
 
 # tag 定位
